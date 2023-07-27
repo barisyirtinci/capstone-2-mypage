@@ -46,6 +46,17 @@ h2{
     
 }
 
+a{
+    color: #11999e;
+    font-family: 'IBM Plex Mono', monospace;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
 p{
     line-height: 2;
 }
@@ -110,3 +121,19 @@ h3{
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+
+.bottom-container{
+    background-color: #71C9CE;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+    display: block;
+    margin-bottom: -100px;
+    padding-bottom: 30px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
