@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.top-container{
+    background-color: #d6f8f8;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1{
+    color: #2a8ca0;
+    font-family: 'Pacifico', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #6ecad3;
+}
+
+.top-png{
+    position: absolute;
+  right: 300px;
+  top: 40px;
+  height: 100px;
+}
+
+.bottom-png{
+    position: absolute;
+  left: 250px;
+  bottom: 300px;
+  height: 100px;
+}
+
+.pro{
+    text-decoration: underline;
+}
